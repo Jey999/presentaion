@@ -1,4 +1,6 @@
 # STRUCURING A PRESENTATION
 Introduction (Set objectives)
-Background  
+
+Background
+  
 Outline/Agenda
